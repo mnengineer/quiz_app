@@ -1,6 +1,6 @@
 # quiz_app
 
-<img src="QUIZ.gif" width="270" />
+<img src="Quiz.gif" width="270" />
 
 ## Getting Started
 
