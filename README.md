@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+<img src="QUIZ.gif" width="270" />
 
 ## Getting Started
 
